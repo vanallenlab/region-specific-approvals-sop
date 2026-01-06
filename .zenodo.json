@@ -1,0 +1,48 @@
+{
+  "title": "A standard operating procedure to enable global, regionally-guided precision oncology knowledge bases",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "Preprint version of article.",
+  "creators": [
+    {
+      "name": "Reardon, Brendan",
+      "affiliation": "Department of Medical Oncology, Dana-Farber Cancer Institute; Broad Institute of MIT and Harvard; School of Medicine, Limerick Digital Cancer Research Centre, Health Research Institute, University of Limerick",
+      "orcid": "0000-0002-1716-5720"
+    },
+    {
+      "name": "Camp, Sabrina Y.",
+      "affiliation": "Department of Medical Oncology, Dana-Farber Cancer Institute; Broad Institute of MIT and Harvard",
+      "orcid": "0000-0002-9695-5527"
+    },
+    {
+      "name": "O'Mahoney, Grainne",
+      "affiliation": "School of Medicine, Limerick Digital Cancer Research Centre, Health Research Institute, University of Limerick"
+    },
+    {
+      "name": "Vergara, Matías",
+      "affiliation": "Department of Medical Oncology, Dana-Farber Cancer Institute; Broad Institute of MIT and Harvard"
+    },
+    {
+      "name": "Lawler, Mark",
+      "affiliation": "Patrick G Johnston Centre for Cancer Research, Faculty of Medicine, Health and Life Sciences, Queen's University Belfast, Belfast, UK"
+    },
+    {
+      "name": "Van Allen, Eliezer M.",
+      "affiliation": "Department of Medical Oncology, Dana-Farber Cancer Institute; Broad Institute of MIT and Harvard",
+      "orcid": "0000-0002-0201-4444"
+    },
+    {
+      "name": "Culhane, Aedin C.",
+      "affiliation": "School of Medicine, Limerick Digital Cancer Research Centre, Health Research Institute, University of Limerick",
+      "orcid": "0000-0002-1395-9734"
+    }
+  ],
+  "keywords": [
+    "precision oncology",
+    "knowledge bases",
+    "tumour biomarkers"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "GPL-2.0-only"
+}

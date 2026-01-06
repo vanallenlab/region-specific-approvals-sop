@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+title: "A standard operating procedure to enable global, regionally-guided precision oncology knowledge bases"
+message: "If you use this repository or the accompanying preprint manuscript, please cite it as below."
+type: article
+license: GPL-2.0-only
+language: en
+
+authors:
+  - family-names: Reardon
+    given-names: Brendan
+    orcid: https://orcid.org/0000-0002-1716-5720
+    affiliation: >
+      Department of Medical Oncology, Dana-Farber Cancer Institute;
+      Broad Institute of MIT and Harvard;
+      School of Medicine, Limerick Digital Cancer Research Centre,
+      Health Research Institute, University of Limerick
+
+  - family-names: Camp
+    given-names: Sabrina Y.
+    orcid: https://orcid.org/0000-0002-9695-5527
+    affiliation: >
+      Department of Medical Oncology, Dana-Farber Cancer Institute;
+      Broad Institute of MIT and Harvard
+
+  - family-names: O'Mahoney
+    given-names: Grainne
+    affiliation: >
+      School of Medicine, Limerick Digital Cancer Research Centre,
+      Health Research Institute, University of Limerick
+
+  - family-names: Vergara
+    given-names: Matías
+    affiliation: >
+      Department of Medical Oncology, Dana-Farber Cancer Institute;
+      Broad Institute of MIT and Harvard
+
+  - family-names: Lawler
+    given-names: Mark
+    affiliation: >
+      Patrick G Johnston Centre for Cancer Research,
+      Faculty of Medicine, Health and Life Sciences,
+      Queen's University Belfast, Belfast, UK
+
+  - family-names: Van Allen
+    given-names: Eliezer M.
+    orcid: https://orcid.org/0000-0002-0201-4444
+    affiliation: >
+      Department of Medical Oncology, Dana-Farber Cancer Institute;
+      Broad Institute of MIT and Harvard
+
+  - family-names: Culhane
+    given-names: Aedin C.
+    orcid: https://orcid.org/0000-0002-1395-9734
+    affiliation: >
+      School of Medicine, Limerick Digital Cancer Research Centre,
+      Health Research Institute, University of Limerick
