@@ -1,0 +1,7 @@
+# Table 2
+Example treatment indication and derived knowledge statement 
+| Description | Text |
+|---|---|
+| Original indication text | Verzenio is a kinase inhibitor indicated in combination with an aromatase inhibitor as initial endocrine-based therapy for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer. |
+| Description for knowledge base use | The U.S. Food and Drug Administration (FDA) granted approval to abemaciclib in combination with an aromatase inhibitor as an initial endocrine-based therapy for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor 2 (HER2)-negative advanced or metastatic breast cancer. |
+| Description with additional clarifying details | The U.S. Food and Drug Administration (FDA) granted approval to abemaciclib in combination with an aromatase inhibitor as an initial endocrine-based therapy for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor 2 (HER2)-negative advanced or metastatic breast cancer. This indication is based on the MONARCH 3 (NCT02246621) clinical trial, which was a randomized (2:1), double-blinded, placebo-controlled, multicenter study. A total of 493 patients were randomized to receive 150 mg abemaciclib or placebo orally twice daily, plus physician's choice of letrozole (80% of patients) or anastrozole (20%). |
