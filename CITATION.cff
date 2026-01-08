@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-title: "A standard operating procedure to enable global, regionally-guided precision oncology knowledge bases"
-message: "If you use this repository or the accompanying preprint manuscript, please cite it as below."
-type: article
-license: GPL-2.0-only
+doi: 10.5281/zenodo.18186568
 language: en
+license: GPL-2.0-only
+message: "If you use this repository or the accompanying preprint manuscript, please cite it as below."
+title: "A standard operating procedure to enable global, regionally-guided precision oncology knowledge bases"
+type: article
 
 authors:
   - family-names: Reardon
