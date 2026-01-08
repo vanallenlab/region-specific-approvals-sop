@@ -2,7 +2,12 @@
   "title": "A standard operating procedure to enable global, regionally-guided precision oncology knowledge bases",
   "upload_type": "publication",
   "publication_type": "article",
-  "description": "Preprint version of article.",
+  "description": "Preprint article submitted to a peer-reviewed journal. This version has not yet undergone peer review.",
+  "communities": [
+    {
+      "identifier": "ehealth4cancer"
+    }
+  ],
   "creators": [
     {
       "name": "Reardon, Brendan",
@@ -44,5 +49,5 @@
   ],
   "language": "eng",
   "access_right": "open",
-  "license": "GPL-2.0-only"
+  "license": "CC-BY-NC-4.0"
 }
